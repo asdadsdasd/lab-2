@@ -3,6 +3,7 @@ package xzero;
 import javax.swing.*;
 
 import xzero.view.GamePanel;
+Second point
 
 public class XZero {
 
